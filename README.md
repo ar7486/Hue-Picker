@@ -22,6 +22,7 @@ Send a single file. The client previews colors, chooses instantly, no technical 
 5. Replace the PNG `href` with the PNG Base64 data URI inside the SVG `<image>`.
 6. Embed the modified SVG into the HTML template with the color-picker code.
 7. Save as `index.html` and test by double-clicking it in a browser.
+ (you might see "hanger" in some places in my code, that was, in my case, the color changing part)
 
 ## Designer — Alternative: single-folder share
 
